@@ -152,16 +152,16 @@ Label	Description
 ### ⚠️ Limitations
 
 
-# ❌ Cannot directly detect smoking/drinking
+ ❌ Cannot directly detect smoking/drinking
 
 
-# ❌ No exact location tracking
+ ❌ No exact location tracking
 
 
-# ❌ Accuracy depends on environment
+ ❌ Accuracy depends on environment
 
 
-# ❌ Sensitive to noise and interference
+ ❌ Sensitive to noise and interference
 
 
 
