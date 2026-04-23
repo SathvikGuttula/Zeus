@@ -76,7 +76,7 @@ HOSTEL_SECURE/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Zues.git
+git clone https://github.com/your-username/Zeus.git
 cd HOSTEL_SECURE
 ```
 ### 2. Install dependencies
